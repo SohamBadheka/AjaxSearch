@@ -4,6 +4,8 @@ Welcome to the AjaxSearch!
 
 This is a very basic thing. I have had this thought of autocomplete when I first learnt about AJAX and was so eager how this google autocompletes our queries. So that I have created something which autocompletes your query and gives you the responses according to the existing data in the database.
 
+Here, I have different hotel data from different cities. You will have to select the city first and then start entering your search query.
+
 I have uploaded an sql file of the table and you can import that to your database and get started with it.
 You can modify the searches and autocomplete feature by applying different queries.
 
