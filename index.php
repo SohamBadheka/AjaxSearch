@@ -9,9 +9,9 @@ echo $_SESSION['hot_city'];
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 		<title>Delicious</title>
-		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
 		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-		<script type="text/javascript" src="js/script.js"></script>
+		<script type="text/javascript" src="script.js"></script>
 	</head>
 <body>
 <div>
